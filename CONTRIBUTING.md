@@ -5,7 +5,7 @@ Thank you for considering contributing to this project! We welcome contributions
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/shibyan-ai-engineer/voice-rag.git`
+2. Clone your fork: `git clone https://github.com/vignanchoutpally/voice-rag.git`
 3. Set up your development environment as described in the README.md
 4. Create a new branch: `git checkout -b feature/your-feature-name`
 
